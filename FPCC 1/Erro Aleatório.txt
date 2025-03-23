@@ -1,0 +1,13 @@
+Erro Aleatório
+- Causas
+- Não pode ser eliminado
+- Poder ser controlado 
+
+Erro Sistemático
+- Causas tendenciosas
+- Pode ser evitado (nem sempre)
+- Não pode ser estimado
+
+Amostragem aleatória simples
+
+Amostragem sistemática

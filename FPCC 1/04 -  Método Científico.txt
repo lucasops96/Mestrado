@@ -1,0 +1,67 @@
+Intervalo de Confiança
+
+Inferência: Premissas -> Conclusões
+Tipos de Inferência
+- Dedutiva: Deriva de consequência lógica das premissas
+- Indutiva: Observações concretas repetidas. Generalização. Experiência dá suporte mas não há garantia de veracidade
+- Abdutiva: Concluir a partir do consequente. Chute. Exemplo: Se a grama está molhada, então deve ter chovido. 
+
+Método científico
+Observações, Hipótese, Predições, Verificadas Experimentalmente, Refutar (ou não) as hipóteses, Teorias e Refutar (ou não teorias)
+
+Métodos na Pesquisa
+- Experimentação: Controlar as variáveis e estabelecer os efeitos
+- Estudo de caso descritivo: Não há controle. Observação e medição em cenários reais
+- Estudo de caso comparativo: Determinar e quantificar relacionamentos usando tratamentos diferentes. Não há controle
+- Modelagem: Modelo aproximado do mundo real. Exemplo: modelo de desempenho de um datacenter
+- Survey: Memória de pessoas. Questionário ou entrevista. Exemplo: Opinião de programadores sobre uma ferramenta
+
+
+Como realizar uma pesquisa empírica
+- Identificar o business problem
+- Identificar o technical problem (research question)
+- Trabalhos relacionados
+- Identificar o tipo de pesquisa empírica
+- Escolher tipo de pesquisa empírica
+- Identificar elementos do design
+- Identificar e criticar as técnicas 
+
+Tipos de pesquisas empíricas
+- Experimento: Controle rigoroso. fatores são manipulados. reproduzível. randomização
+- Estudo de Caso: ambiente real. planejamento. objetivos: identificar fatores e estabelecer relacionamentos. não há controle.
+- Survey: Estudo retrospectivo. Não há controle. Entrevistas e questionários
+
+Investigação Empírica
+- Definição do problema
+- Revisão da literatura
+- Planejamento
+-- Escolha da estratégia empírica
+-- Design da pesquisa
+- Execução da pesquisa
+- Análise de dados
+- Divulgação
+- Uso
+
+
+Hipótese de Trabalho
+W5H : who, what, when, where, why e how
+
+Fichas de leitura
+Fontes
+Leitura Rápida
+Leitura crítica
+-- O que está sendo dito, em geral?
+-- Detalhes: quais são os argumentos?
+-- Crítica: concorda ou não?
+-- Relação do trabalho com outros?
+-- E daí? Que ideias levo para casa?
+
+Hipóteses
+Variáveis dependentes (resposta)
+Variáveis independentes (fatores)
+Hipóteses formais
+Participantes
+Projeto
+Método de análise
+Instrumentos
+Ameaças

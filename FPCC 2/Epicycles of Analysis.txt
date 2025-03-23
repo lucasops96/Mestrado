@@ -1,0 +1,41 @@
+Epicycles of Analysis - Esse é um capítulo do livro The Art of Data Science, de Peng.
+
+A análise de dados é um processo altamente iterativo e não linear.
+
+2.1 Configurando a Cena
+
+É importante observar que, embora uma análise de dados seja frequentemente realizada sem a condução de um estudo, ela também pode ser realizada como um componente de um estudo.
+
+2.2 Epiciclo de Análise
+Existem 5 atividades principais de análise de dados:
+
+Declarando e refinando a questão
+
+Explorando os dados
+
+Construção de modelos estatísticos formais
+
+Interpretando os resultados
+
+Comunicar os resultados
+
+
+Mais especificamente, para cada uma das cinco atividades principais, é fundamental que você se envolva nas seguintes etapas:
+
+Definir Expectativas,
+
+Coleta de informações (dados), comparando os dados com suas expectativas, e se as expectativas não coincidem
+
+Revendo suas expectativas ou corrigindo os dados para que seus dados e suas expectativas correspondam.
+
+Iterar através deste processo de 3 passos é o que chamamos de epiciclo “de análise de dados.” Ao passar por todas as etapas de uma análise, você precisará passar pelo epiciclo para refinar continuamente sua pergunta, sua análise exploratória de dados, seus modelos formais, sua interpretação e sua comunicação.
+
+
+2.3 Definir Expectativas
+Quando for sair pra jantar em um restaurante que só aceita dinheiro, você precisa sacar o dinheiro antes e já define mais ou menos quanto deve sacar, pois já conhece os preços do restaurante que costuma ir.
+
+2.4 Recolha de Informações
+Esta etapa envolve coletar informações sobre sua pergunta ou seus dados.
+
+2.5 Comparando Expectativas com Dados
+Agora que você tem dados em mãos (o cheque no restaurante), o próximo passo é comparar suas expectativas com os dados. Existem dois resultados possíveis: ou suas expectativas do custo correspondem ao valor no cheque, ou não. Se suas expectativas e os dados corresponderem, ótimo, você pode passar para a próxima atividade. Se, por outro lado, suas expectativas foram um custo de 30 dólares, mas o cheque foi de 40 dólares, suas expectativas e os dados não correspondem. Existem duas explicações possíveis para a discordância: primeiro, suas expectativas estavam erradas e precisam ser revisadas, ou segundo, a verificação estava errada e contém um erro. Você revisa o cheque e descobre que foi cobrado por duas sobremesas em vez da que você tinha, e conclui que há um erro nos dados, então peça para que o cheque seja corrigido.
