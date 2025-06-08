@@ -1,0 +1,16 @@
+Mini teste 01
+1) 
+a) está correta, porém B(x) é x > 3, pois não pertence ao intervalo (−∞, 3]. 
+b) Não está certa, mas poderia ter colocada toda simplificação para haver alguma consideração.
+c) Não está certa, mas poderia ter colocada toda simplificação para haver alguma consideração.
+
+
+2)
+a)está correta.
+b)Meio certo, mas faltou adicionar a disjunção no lugar da implicação e era pra manter a negação na proposição C.
+c)Meio certo, era conjunção entre E e P ¬[(E ∧ P).
+
+3) Está correta, mas não entendi o final da resposta "o todo  φ é falso", isso poderia ser descartado da resposta. Já que pede para demostrar quando a conjunção é verdadeira.
+
+
+Nota: 7

@@ -1,0 +1,7 @@
+Em particular, o uso indevido de significância estatística como padrão de evidência para o sucesso experimental foi identificado como um contribuinte fundamental na crise de replicação.
+
+O teste de significância de hipóteses nulas (NHST) é um dos principais métodos para fornecer essa evidência. 
+
+Então com viés de publicação e o efeito de gaveta de arquivos ainda é possível ter trabalhos publicados, como isso acontece ? 
+
+O HARKing faz o pesquisadores contestar as hipóteses de outros autores, levando a resultados diferentes sem contribuição ?

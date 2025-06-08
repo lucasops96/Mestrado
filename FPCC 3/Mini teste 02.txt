@@ -1,0 +1,8 @@
+1) Está certa, explicou que a implicação e lida apenas de condicional e que para as premissas Falsa a conclusão não importa pois a implicação será verdadeira.
+
+
+2)
+a) está certa, apenas as regras lógicas da A) e B). A regra C) está quase pois faltou a proposição V.
+
+b) está errada, A resposta é não porque a regra B) que impede o acesso de usuário autenticado
+a área restrita.
